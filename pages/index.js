@@ -12,7 +12,19 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Yamet kudasi, yamet kudasi, bang Yamet parake dasi..
+
+            Ara ara kimochi, ara ara kimochi, bang ara parake peci..
+
+            Bararau tanah, Bararau tanah, bararau tanah, bararau tanah..
+
+            Bararau tanah, bararau tanah, mencium bararau tanah..
+
+            Yamet kudasi, yamet kudasi, bang Yamet parake dasi..
+
+            Ara-ara kimochi, Ara-ara kimochi
+
+            Bang Ara parake peci, Bang Ara parake peci</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
